@@ -9,7 +9,6 @@ https://docs.djangoproject.com/en/5.2/topics/settings/
 For the full list of settings and their values, see
 https://docs.djangoproject.com/en/5.2/ref/settings/
 """
-from django_workflow_engine import Step, Workflow
 from pathlib import Path
 import dj_database_url
 import os
